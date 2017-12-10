@@ -1,0 +1,4 @@
+This is some dummy text.
+In master branch, committed changes.
+Added some random text.
+

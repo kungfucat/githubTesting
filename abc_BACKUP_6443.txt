@@ -1,0 +1,10 @@
+This is some dummy text.
+<<<<<<< HEAD
+I added some more dummy text.
+Added some more text;
+This is some more dummy text.
+=======
+In master branch, committed changes.
+Added some random text.
+
+>>>>>>> master
