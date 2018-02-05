@@ -15,5 +15,11 @@ public class MainActivity extends AppCompatActivity {
         Log.d("TAG","Hello, World!");
         Log.d("TAG","Hello, World!");
         Log.d("TAG","Hello, World!");
+
+        Log.d("TAG","Hello, World!");
+        Log.d("TAG","Hello, World!");
+
+        Log.d("TAG","Hello, World!");
+        Log.d("TAG","Hello, World!");
     }
 }
