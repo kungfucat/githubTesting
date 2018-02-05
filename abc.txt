@@ -4,3 +4,10 @@ Added some random text.
 
 
 This is some more randome text.
+
+This is some dummy text.
+In master branch, committed changes.
+Added some random text.
+
+
+This is some more randome text.
